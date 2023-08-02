@@ -1,0 +1,2 @@
+# TasksWebApi
+Proyecto API utilizando Web API de .NET 6 con configuración de proyección mediante Entity Framework. Se implementaron servicios, controladores y modelos para gestionar datos y funcionalidades. Además, se aplicó el concepto de inyección de dependencia para mejorar la modularidad y escalabilidad del sistema. Asimismo, se enriqueció la experiencia del usuario mediante el uso de Middlewares personalizados para la gestión de peticiones y respuestas.
